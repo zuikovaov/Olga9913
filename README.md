@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 ### About Me
 
-I'm a data scientist with a focus on machine learning and natural language processing.
+I'm a data scientist focused on machine learning, natural language and speech processing, with a linguistics background.
 ### Skills
 
 - Languages: Python, C/C++, Bash, SQL, LaTeX
